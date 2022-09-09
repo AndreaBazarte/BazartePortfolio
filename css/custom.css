@@ -1,2 +1,39 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+.aboutmeheader{
+    
+}
+.aboutmetext {
+    font-size: larger;
+}
+.gal_a{
+    display:flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+}
+.projectscreenshots {
+    width: 500px;
+    height: 300px;
+}
+.emaillink{
+    color: white;
+}
+.contactmedia{
+    display:flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    width:100%;
+    justify-content: center;
+}
+.contactmedia li {
+    margin: 0px 40px 20px 40px;
+    padding: 5px 10px;
+    border-radius: 10%;
+    background: #0A66C2;
+}
+.contactmedia li i {
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+}
